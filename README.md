@@ -12,3 +12,7 @@ You can send me a friend request on my discord to contact me (Cube#3301), I'll a
 
 ### Title
 someone tell github to stop banning me thanks! :D
+
+
+
+Oh also, table and vi are cool
