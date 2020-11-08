@@ -1,16 +1,14 @@
-### Hi there 👋
+## um hi
+### About
 
-<!--
-**Cube9999/Cube9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on: ExtCS
 
-Here are some ideas to get you started:
+Currently Learning: C++, Reverse Engineering, Re-learning C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm interested in: Reverse Engineering, OSes, Learning about how stuff works internally
+
+### Contact me
+You can send me a friend request on my discord to contact me (Cube#3301), I'll answer anything I can
+
+### Title
+someone tell github to stop banning me thanks! :D
