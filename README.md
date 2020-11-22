@@ -1,7 +1,7 @@
 ## um hi
 ### About
 
-Currently working on: ExtCS, a multi-purpose C# library that extends the standard library
+Currently working on: LDD, a lua disassembler, decompiler, assembler and compiler
 
 Currently Learning: C++ & Reverse Engineering
 
