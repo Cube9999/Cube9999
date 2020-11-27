@@ -1,7 +1,7 @@
 ## um hi
 ### About
 
-Currently working on: LDD, a lua disassembler, decompiler, assembler and compiler
+Currently working on: LDD, a lua disassembler, decompiler, assembler and compiler & Neptune VM, an open-sourced Virual Machine for programming languages
 
 Currently Learning: C++ & Reverse Engineering
 
