@@ -6,9 +6,14 @@ Currently Learning: C++, Reverse Engineering and OS theory
 
 Interested in: Reverse Engineering, OSes, Cryptography and Low Level programming
 
+Programming Languagues I know: C++, C#, Lua, JavaScript & Node, TypeScript, Python, x86/x64 Assembly (Intel & MASM syntax) and C
+
+
 ### Contact me
 Discord:  371088498016518155 (CURRENTLY INACTIVE)
+
 Telegram: @NotCube
+
 Twitter: @NotCube_
 
 
