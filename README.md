@@ -9,7 +9,7 @@ Interested in: Reverse Engineering, OSes, Cryptography and Low Level programming
 ### Contact me
 Discord:  371088498016518155 (CURRENTLY INACTIVE)
 Telegram: @NotCube
-Twitter: @CubeX9999
+Twitter: @NotCube_
 
 
 
