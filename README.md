@@ -10,7 +10,7 @@ Programming Languagues I know: C++, C#, Lua, JavaScript & Node, TypeScript, Pyth
 
 
 ### Contact me
-Discord:  371088498016518155 (CURRENTLY INACTIVE)
+Discord:  Cube#1362 | 371088498016518155
 
 Telegram: @NotCube
 
